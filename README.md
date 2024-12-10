@@ -12,7 +12,7 @@ VERCEL PROCESS:
     4: Enter project name, env variables.
     5: And JUST CLICK "Deploy". 
 ```
-***Here's an Example [`OUTPUT`](https://tohid-khan-web.vercel.app/).***
+***Here's an Example [`OUTPUT`](https://sana-khan-web.vercel.app/).***
 
 ---
 ### 5. follow me
